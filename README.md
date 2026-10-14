@@ -110,9 +110,9 @@ Make sure you run the program from the appropriate working directory if it uses 
 
 **Subject:** Artificial Intelligence and Machine Learning (AIML)  
 **Programming Language:** Python  
-**Student Name:** [Your Name]  
-**PRN / Roll Number:** [Your PRN or Roll Number]  
-**Academic Year:** [Your Academic Year]
+**Student Name:**  Prasad.V.Talekar 
+**PRN / Roll Number:** 2514111124 , 116
+**Academic Year:** 2026-27
 
 ## ⚠️ Disclaimer
 
@@ -120,6 +120,6 @@ This repository is intended for educational purposes and academic practical subm
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Prasad Talekar]**
 
-GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: Prasad Talekar(https://github.com/PrasadTalekar-11)
